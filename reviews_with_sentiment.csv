@@ -1,0 +1,21 @@
+review_id,product_name,rating,review,sentiment
+1,Wireless Headphones,5,Absolutely love these headphones! The sound quality is crystal clear and the battery lasts for days. Best purchase I've made this year.,Positive
+2,Smart Watch,2,Disappointed with this watch. The battery dies within hours and the touch screen is very unresponsive. Not worth the price.,Negative
+3,Coffee Maker,5,This coffee maker is amazing! Makes perfect coffee every time and is so easy to clean. Highly recommend to all coffee lovers.,Positive
+4,Laptop Stand,1,Terrible quality. The stand broke after just two days of use. Very flimsy materials and poor construction. Save your money.,Negative
+5,Phone Case,4,"Really nice protective case. Fits perfectly and looks great. Only minor issue is it's a bit slippery, but overall very satisfied.",Positive
+6,Bluetooth Speaker,5,Best speaker I've ever owned! The sound is incredible for such a small device. Battery life is excellent and it's very portable.,Positive
+7,Desk Chair,2,Very uncomfortable after sitting for more than 30 minutes. The cushioning is too thin and the back support is inadequate. Returning it.,Negative
+8,LED Desk Lamp,5,Perfect lighting for my workspace. Multiple brightness settings and the adjustable arm is very convenient. Great value for money.,Positive
+9,Webcam,1,"Awful picture quality, even in good lighting. Audio is choppy and it constantly disconnects. Definitely not worth buying.",Negative
+10,Keyboard,4,Solid keyboard with nice tactile feedback. Keys are responsive and it's comfortable to type on for long periods. Would buy again.,Positive
+11,Mouse Pad,3,"It's okay, nothing special. Does the job but started fraying at the edges after a few weeks. Expected better quality.",Negative
+12,USB Cable,1,Stopped working after one week. Very disappointed with the durability. The connection was loose from the start.,Negative
+13,Water Bottle,5,Love this water bottle! Keeps drinks cold for 24 hours and hot for 12. No leaks and very durable. Perfect for gym and travel.,Positive
+14,Backpack,2,Zippers broke within the first month. Not enough padding for a laptop and the straps are uncomfortable. Poor quality overall.,Negative
+15,Notebook,5,Excellent quality paper that doesn't bleed through. Perfect binding and the cover is sturdy. Great for journaling and note-taking.,Positive
+16,Pen Set,4,Nice smooth writing pens. The ink flows well and they're comfortable to hold. One pen leaked slightly but overall happy with purchase.,Positive
+17,Monitor,1,Screen arrived with dead pixels and the colors are washed out. Customer service was unhelpful. Very frustrating experience.,Negative
+18,Tablet,5,"Fantastic tablet! Super fast, beautiful display, and battery lasts all day. Perfect for reading, browsing, and streaming.",Positive
+19,Fitness Tracker,3,It's decent but not great. Tracks steps accurately but the heart rate monitor seems off. App could use improvement.,Negative
+20,Running Shoes,2,Very uncomfortable and caused blisters after the first run. Poor arch support and not true to size. Had to return them.,Negative
